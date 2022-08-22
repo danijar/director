@@ -1,0 +1,12 @@
+atari-py==0.2.9
+cloudpickle
+crafter
+dm-sonnet
+dm_control
+gym==0.19.0
+numpy
+opencv-python
+rich
+ruamel.yaml
+tensorflow
+tensorflow_probability
